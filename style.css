@@ -10,6 +10,8 @@
 }
 
 html {
+    zoom: 90%;
+    /* Sets default page zoom to 90% */
     background-color: #ffffff;
     color: #0d0d0d;
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
